@@ -17,3 +17,8 @@
     border: none;
     width: 100%;
 }
+
+h1.side {
+    position: absolute;
+    right: 0px;
+}

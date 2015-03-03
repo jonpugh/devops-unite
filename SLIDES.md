@@ -101,3 +101,52 @@ Drupal itself goes through this cycle.
 
 
 HTML <img src="img/arrow.png"> PHP <img src="img/arrow.png"> Drupal
+<div class='fragment'>
+  What do these have in common?
+</div>
+
+
+
+HTML <img src="img/arrow.png"> PHP <img src="img/arrow.png"> Drupal
+
+<ul>
+<li class='fragment'>Open Source and useful.
+<li class='fragment'>Good-enough solutions to hard problems.
+<li class='fragment'>Easily accessible by anyone: Community.
+</ul>
+
+
+
+HTML <img src="img/arrow.png"> PHP <img src="img/arrow.png"> Drupal
+
+Why did we settle on PHP? Why did we settle on Drupal?
+
+<ul>
+<li class='fragment'>Best programming lanugage?
+<li class='fragment'>Best CMS?
+<li class='fragment'>Best source code?
+</ul>
+
+ <h1 class="side fragment">NO.</h1>
+
+
+
+HTML <img src="img/arrow.png"> PHP <img src="img/arrow.png"> Drupal
+
+Why did we settle on PHP? Why did we settle on Drupal?
+
+<div class="fragment">
+They give us the most power<br>
+with the least pain.
+</div>
+
+
+
+HTML <img src="img/arrow.png"> PHP <img src="img/arrow.png"> Drupal
+
+<p class="fragment">
+They are great *products*,
+</p>
+<p class="fragment">
+*despite* their imperfections.
+</p>
