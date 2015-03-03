@@ -16,7 +16,17 @@ The Cycle of Open Source
 
 
 
-All open source breakthroughs happen in a cycle.
+<div class="fragment">
+  WARNING:
+  This presentation contains sweeping generalizations and shameless product plugs.
+</div>
+
+
+
+
+
+
+Open Source growth happen in a cycle.
 
 
 
@@ -32,15 +42,14 @@ All open source breakthroughs happen in a cycle.
 <div class="fragment">
     CONSENSUS
 </div>
-
-
-
-
-### 1990
-
-<div>
-  <h1>HTML</h1>
+<div class="fragment" id='cycle'>
+  <img src="img/reset.png">
 </div>
+
+
+
+HTML
+====
 
 <div class="fragment">
   INTRODUCTION
@@ -48,17 +57,47 @@ All open source breakthroughs happen in a cycle.
 
 
 
-CGI
-Perl
-ASP
-JSP
-PHP
-Ruby
-WebDNA
-ColdFusion
+<img src="img/HTML-PHP.png" class='full'>
 
-<script>
-$(document).ready(function(){
-    alert('loaded');
-});
-</script>
+
+
+php
+===
+
+<div class="fragment">
+  CONSENSUS
+</div>
+
+
+
+Out of the 111 open sourced CMS...
+<div class='fragment'>62 are PHP.</div>
+
+
+
+<img src="img/PHP-Drupal.png" class='full'>
+
+
+
+
+Drupal
+===
+
+<div class="fragment">
+  CONSENSUS
+</div>
+
+
+
+
+
+
+Drupal itself goes through this cycle.
+
+
+
+<img src="img/Drupal-Drupal.png" class='full'>
+
+
+
+HTML <img src="img/arrow.png"> PHP <img src="img/arrow.png"> Drupal
