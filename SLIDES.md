@@ -75,7 +75,7 @@ Out of the 111 open sourced CMS...
 
 
 
-<img src="img/PHP-Drupal.png" class='full'>
+<img src="img/PHP-DRUPAL.png" class='full'>
 
 
 
