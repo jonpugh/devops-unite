@@ -150,3 +150,5 @@ They are great *products*,
 <p class="fragment">
 *despite* their imperfections.
 </p>
+
+240 repos on github.com for the search "drupal vagrant".
