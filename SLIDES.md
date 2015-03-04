@@ -79,16 +79,15 @@ Out of the 111 open sourced CMS...
 
 
 
-Drupal
-===
+# Drupal
 
-<div class="fragment">
-  CONSENSUS
-</div>
+### Consensus
 
 
 
+# Drupal
 
+### Consensus  <img src="img/arrow.png"> Introduction
 
 
 Drupal itself goes through this cycle.
