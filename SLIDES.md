@@ -170,3 +170,74 @@ Developers + Ops <em class='fragment'>(+ Everyone Else)</em>
 
 ### Exploration
 <img src='img/drupalcon-la-devops.png'>
+
+
+
+### Exploration
+
+# Open Process
+
+People teach each other techniques, tools, and process.
+
+
+
+### Collaboration
+
+# Open Products
+
+People build a product that systemitizes the best techniques, tools, and processes.
+
+
+
+The time has come for collaboration.
+
+Without consensus, we will not get our next platform.
+
+
+
+# DevShop
+
+It's a platform, not a tool.
+
+
+
+### Why
+# DevShop?
+
+Keeps track of all the things:
+<small>Users, servers, environments, tasks, tests, & services.</small>
+
+Does all the things:
+<small>Deploy code, deploy data, run tests, backups, commit config, logs, solr...</small>
+
+Integrates with any other tool.
+<small>Including Acquia, Patheon, or any remote drupal host.</small>
+
+DevShop is a platform for building the future of web development.
+
+
+
+# Consensus
+
+We need consensus on a common DevOps platform,
+
+just like we needed consensus on Drupal and PHP before that.
+
+
+
+# Consensus
+
+Consensus does not mean the platform is the best, or the fastest, or the simplest.
+
+Consensus means that the platform is empowering, and has proven to solve real problems.
+
+Consensus brings us all together to work toward improving our situation with a common goal.
+
+
+# Consensus?
+
+DevShop may not be the best platform for the job.
+
+If something else out there is, we'd love to see it and throw it in the running.
+
+
