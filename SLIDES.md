@@ -12,14 +12,14 @@ http://jonpugh.github.io/devops-unite
 
 
 
-The Cycle of Open Source
-
-
-
 <div class="fragment">
-  WARNING:
+  <strong>WARNING:</strong>
   This presentation contains sweeping generalizations and shameless product plugs.
 </div>
+
+
+
+The Cycle of Open Source
 
 
 
