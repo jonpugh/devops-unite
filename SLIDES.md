@@ -311,8 +311,16 @@ Either way, we need to collaborate, and we need consensus on a common devops pla
 
 
 
-# DevShop
-## Join the Community.
+# Community!
+## Join Us!
+
+Please, join the devshop community.  
+
+Tell us what doesn't work for your. Tell us what features you think it is missing.  
+ 
+Try to integrate your own tools and methods into devshop.
+
+Please, PLEASE ask for help!  We want to help you!
 
 
 
