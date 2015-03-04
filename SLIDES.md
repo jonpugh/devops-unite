@@ -1,8 +1,6 @@
-A Call to DevOps:
-=================
+# A Call to DevOps:
 
-Unite with DevShop
-------------------
+## Unite!
 
 Jon Pugh
 
@@ -40,6 +38,15 @@ http://en.wikipedia.org/wiki/Computing_platform
 >  A usually raised structure that has a flat surface where people or machines do work.
 
 http://www.merriam-webster.com/dictionary/platform
+
+
+
+# "Platform"
+
+>  A place where people and machines do work.
+
+this slide.
+
 
 
 <div class="fragment">
