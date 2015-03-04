@@ -352,7 +352,7 @@ Each environment can have different settings.
 
 
 
-## Deploy Code, Database & Files, or Stack
+## Deploy Code, Data, or Stack
 
 <img src='img/devshop-deploy-data.png'>
 
