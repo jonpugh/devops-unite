@@ -57,17 +57,14 @@ HTML
 
 
 
-php
-===
-
-<div class="fragment">
-  CONSENSUS
-</div>
-
-
-
 Out of the 111 open sourced CMS...
 <div class='fragment'>62 are PHP.</div>
+
+
+
+# php
+
+### Consensus
 
 
 
