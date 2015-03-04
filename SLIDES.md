@@ -159,8 +159,9 @@ Developers + Ops <em class='fragment'>(+ Everyone Else)</em>
 
 
 <img src='img/github-drupal-vagrant.png' class='full'>
+Exploration
 
 
 
 <img src='img/github-drupal-jenkins.png' class='full'>
-
+Exploration
