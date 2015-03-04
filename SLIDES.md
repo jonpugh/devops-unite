@@ -14,7 +14,7 @@ http://jonpugh.github.io/devops-unite
 
 <div class="fragment">
   <strong>WARNING:</strong>
-  This presentation contains sweeping generalizations and shameless product plugs.
+  This presentation contains sweeping generalizations and is unabashedly biased.
 </div>
 
 
