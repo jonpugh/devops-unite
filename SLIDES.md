@@ -127,19 +127,40 @@ HTML <img src="img/arrow.png"> PHP <img src="img/arrow.png"> Drupal
 </p>
 </small>
 
-<h2 class="fragment">They are great Products</h2>
-
-
-HTML <img src="img/arrow.png"> PHP <img src="img/arrow.png"> Drupal
-
-<p class="fragment">
-They are great *products*,
-</p>
-<p class="fragment">
-*despite* their imperfections.
-</p>
+<h2 class="fragment">They are Platforms</h2>
 
 
 
+## So where are we now?
 
-240 repos on github.com for the search "drupal vagrant".
+
+
+# Drupal
+
+Consensus
+
+
+
+# Drupal DevOps
+
+Introduction
+
+
+
+# DevOps?
+DevOps is everything that is needed to support a stable application and maintain productive software development.
+
+Developers + Ops <em class='fragment'>(+ Everyone Else)</em>
+
+
+
+<img src='img/DEVOPS.png' class='full'>
+
+
+
+<img src='img/github-drupal-vagrant.png' class='full'>
+
+
+
+<img src='img/github-drupal-jenkins.png' class='full'>
+
