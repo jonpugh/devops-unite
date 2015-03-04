@@ -98,9 +98,10 @@ Drupal itself goes through this cycle.
 
 
 
+# Why?
+
 HTML <img src="img/arrow.png"> PHP <img src="img/arrow.png"> Drupal
 
-So why did we choose these?
 
 <p class='fragment'>Was PHP the best programming language?
 <p class='fragment'>Was Drupal the best CMS?
@@ -108,6 +109,8 @@ So why did we choose these?
  <h1 class="fragment">NO.</h1>
 
 
+
+# Why?
 
 HTML <img src="img/arrow.png"> PHP <img src="img/arrow.png"> Drupal
 <p class="fragment">
