@@ -19,7 +19,7 @@ http://jonpugh.github.io/devops-unite
 
 
 
-The Cycle of Open Source
+The Cycle of Open Source Platforms
 
 
 
@@ -71,6 +71,12 @@ Out of the 111 open sourced CMS...
 
 
 
+# PHP
+
+### Consensus  <img src="img/arrow.png"> Introduction
+
+
+
 <img src="img/PHP-DRUPAL.png" class='full'>
 
 
@@ -108,7 +114,6 @@ So why did we choose these?
 
 
 HTML <img src="img/arrow.png"> PHP <img src="img/arrow.png"> Drupal
-<small>
 <p class="fragment">
   They give us great power, with the least amount of pain.
 </p>
@@ -118,9 +123,6 @@ HTML <img src="img/arrow.png"> PHP <img src="img/arrow.png"> Drupal
 <p class="fragment">
   They are incredibly useful and easily accessible.
 </p>
-</small>
-
-<h2 class="fragment">They are Platforms</h2>
 
 
 
