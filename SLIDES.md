@@ -354,7 +354,31 @@ Each environment can have different settings.
 
 ## Deploy Code, Data, or Stack
 
+<img src='img/devshop-deploy-code.png'>
+
+
+
+## Deploy Code, Data, or Stack
+
 <img src='img/devshop-deploy-data.png'>
+
+
+
+## Deploy Code, Data, or Stack
+
+<img src='img/devshop-deploy-stack.png'>
+
+
+
+## Easy Drush Access
+
+<img src='img/devshop-drush-aliases.png'>
+
+
+
+## Tasks & Logs
+
+<img src='img/task-logs.png'>
 
 
 
@@ -376,10 +400,39 @@ Each environment can have different settings.
 
 
 
-# Please Help.
+## Pull Request Environments
 
-We Need You.
+Creates when a PR is issued. Destroys when it is closed.
+
+<img src='img/pull-req-env.png'>
 
 
 
-# Thanks!
+## So many things!
+
+- Lock a site's database.
+- Password Protect an environment.
+- Automated backups.
+- Domain aliases.
+- Integrated Error & Commit Logs
+- File Browser
+
+
+
+It's only missing one thing...
+
+
+
+# Community
+
+Please help. We Need You.
+
+Thanks!
+
+http://drupal.org/project/devshop
+
+http://getdevshop.com
+
+#devshop on IRC
+
+<a href='http://twitter.com/opendevshop'>@opendevshop</a>
