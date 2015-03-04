@@ -207,7 +207,10 @@ I formerly invite you to join our community.
 
 # DevShop
 
-It's a platform, not a tool.
+
+
+### Why
+# DevShop?
 
 
 
@@ -215,39 +218,40 @@ It's a platform, not a tool.
 # DevShop?
 
 Keeps track of all the things:
+
 <small>Users, servers, environments, tasks, tests, & services.</small>
 
 Does all the things:
+
 <small>Deploy code, deploy data, run tests, backups, commit config, logs, solr...</small>
 
-Integrates with any other tool.
-<small>Including Acquia, Patheon, or any remote drupal host.</small>
+Integrates with all the things:
 
-DevShop is a platform for building the future of web development.
-
-
-
-# Consensus
-
-We need consensus on a common DevOps platform,
-
-just like we needed consensus on Drupal and PHP before that.
+<small>Drush & Drupal APIs.  Connect to Acquia, Pantheon, or any other Cloud Server Providers.</small>
 
 
 
-# Consensus
+### Why not
+# DevShop?
 
-Consensus does not mean the platform is the best, or the fastest, or the simplest.
+DevShop is not perfect.
 
-Consensus means that the platform is empowering, and has proven to solve real problems.
+DevShop is not simple.
 
-Consensus brings us all together to work toward improving our situation with a common goal.
+But DevShop is comprehensive, useful, and open source.
+
 
 
 # Consensus?
 
-DevShop may not be the best platform for the job.
+<div class='fragment'>
+DevShop may not be the best platform for the job...
+</div>
 
-If something else out there is, we'd love to see it and throw it in the running.
+<div class='fragment'>
+If something else out there is, we'd love to see it and work to improve it.
+</div>
 
-
+<div class='fragment'>
+Either way, we need to collaborate, and we need consensus on a common devops platform.
+</div>
