@@ -49,6 +49,16 @@ this slide.
 
 
 
+# Our Platforms
+
+HTML
+
+PHP
+
+DRUPAL
+
+
+
 <div class="fragment">
   INTRODUCTION
 </div>
