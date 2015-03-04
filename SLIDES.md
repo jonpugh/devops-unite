@@ -207,7 +207,7 @@ Developers + Ops <em class='fragment'>(+ Everyone Else)</em>
 
 # Open Process
 
-People teach each other techniques, tools, and process.
+We teach each other techniques, tools, and process.
 
 
 
@@ -215,29 +215,11 @@ People teach each other techniques, tools, and process.
 
 # Open Products
 
-People build products to simplify everything.
+We build products to simplify everything for everybody.
 
 
 
-### Consensus?
-
-<div class='fragment'>
-
-<h1>Community</h1>
-
-</div>
-
-
-
-## Community is more important than Code.
-
-HTML <img src="img/arrow.png"> PHP <img src="img/arrow.png"> Drupal
-
-Community is what made these platforms what they are.
-
-
-
-I formerly invite you to join our community.
+HTML <img src="img/arrow.png"> PHP <img src="img/arrow.png"> Drupal <img src="img/arrow.png"> ? 
 
 
 
