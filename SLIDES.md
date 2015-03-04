@@ -23,6 +23,25 @@ The Cycle of Open Source Platforms
 
 
 
+# "Platform"
+
+
+
+# "Platform"
+
+> A computing platform is, in the most general sense, whatever pre-existing environment a piece of software is designed to run within, obeying its constraints, and making use of its facilities. 
+
+http://en.wikipedia.org/wiki/Computing_platform
+
+
+
+# "Platform"
+
+>  A usually raised structure that has a flat surface where people or machines do work.
+
+http://www.merriam-webster.com/dictionary/platform
+
+
 <div class="fragment">
   INTRODUCTION
 </div>
