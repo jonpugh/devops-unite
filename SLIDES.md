@@ -255,3 +255,57 @@ If something else out there is, we'd love to see it and work to improve it.
 <div class='fragment'>
 Either way, we need to collaborate, and we need consensus on a common devops platform.
 </div>
+
+
+
+# DevShop
+## Join the Community.
+
+
+
+### Start a project from any drupal git repo.
+
+<img src='img/devshop-project-create.png'>
+
+*Including Acquia Cloud & Pantheon repos.
+
+
+
+### Unlimited environments from any branch or tag.
+
+<img src='img/devshop-project-dashboard.png'>
+
+
+
+## Configurable Deploy Hooks
+
+Each environment can have different settings.
+
+<img src='img/devshop-deploy-hooks.png'>
+
+*Drush hooks and Acquia Cloud Hooks also supported.
+
+
+
+## Deploy Code, Database & Files, or Stack
+
+<img src='img/devshop-deploy-data.png'>
+
+
+
+## Integrated Testing
+
+<img src='img/devshop-tests-pass.png'> <img src='img/devshop-tests-failed.png'>
+
+
+
+## Easy Access to Results
+
+<img src='img/devshop-tests-results.png'>
+
+
+
+## Create and Manage your cloud servers.
+
+<img src='img/devshop-server-add.png'>
+
