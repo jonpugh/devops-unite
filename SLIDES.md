@@ -23,13 +23,6 @@ The Cycle of Open Source
 
 
 
-
-
-
-Open Source growth happens in a cycle.
-
-
-
 <div class="fragment">
   INTRODUCTION
 </div>
