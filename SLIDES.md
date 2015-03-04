@@ -179,13 +179,29 @@ People teach each other techniques, tools, and process.
 
 # Open Products
 
-People build a product that systemitizes the best techniques, tools, and processes.
+People build products to simplify everything.
 
 
 
-The time has come for collaboration.
+### Consensus?
 
-Without consensus, we will not get our next platform.
+<div class='fragment'>
+
+<h1>Community</h1>
+
+</div>
+
+
+
+## Community is more important than Code.
+
+HTML <img src="img/arrow.png"> PHP <img src="img/arrow.png"> Drupal
+
+Community is what made these platforms what they are.
+
+
+
+I formerly invite you to join our community.
 
 
 
