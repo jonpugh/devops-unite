@@ -149,15 +149,20 @@ HTML <img src="img/arrow.png"> PHP <img src="img/arrow.png"> Drupal
 # Why?
 
 HTML <img src="img/arrow.png"> PHP <img src="img/arrow.png"> Drupal
+
 <p class="fragment">
-  They give us great power, with the least amount of pain.
+  Least painful.
 </p>
 <p class="fragment">
-  They are focused on the needs of the implementers.
+  Most accessible.
 </p>
 <p class="fragment">
-  They are incredibly useful and easily accessible.
+  Most comprehensive.
 </p>
+<p class="fragment">
+  Most opportunity.
+</p>
+
 
 
 
@@ -249,6 +254,15 @@ Integrates with all the things:
 
 
 
+### Why
+# DevShop?
+
+It is a platform to build upon.
+
+It is a place for humans and machines to do work.
+
+
+
 ### Why not
 # DevShop?
 
@@ -256,14 +270,35 @@ DevShop is not perfect.
 
 DevShop is not simple.
 
-But DevShop is comprehensive, useful, and open source.
+DevShop might not do exactly what you want it to do.
+
+but...
+
+
+
+### Why
+# DevShop?
+
+Least painful.
+
+Most accessible.
+
+Most comprehensive.
+
+Most opportunity.
+
+
+
+# Consensus?
+
+<img src='img/notsureif.jpg'>
 
 
 
 # Consensus?
 
 <div class='fragment'>
-DevShop may not be the best platform for the job...
+  DevShop may not be the best platform for the job...
 </div>
 
 <div class='fragment'>
