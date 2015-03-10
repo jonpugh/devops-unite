@@ -1,6 +1,7 @@
 # A Call to DevOps:
 
 ## Unite!
+### With DevShop
 
 Jon Pugh
 
@@ -433,6 +434,6 @@ http://drupal.org/project/devshop
 
 http://getdevshop.com
 
-#devshop on IRC
+On IRC: #devshop
 
 <a href='http://twitter.com/opendevshop'>@opendevshop</a>
