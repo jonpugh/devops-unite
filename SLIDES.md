@@ -70,7 +70,11 @@ DRUPAL
     COLLABORATION
 </div>
 <div class="fragment">
+    PRODUCTIZATION
+</div>
+<div class="fragment">
     CONSENSUS
+</div>
 </div>
 <div class="fragment" id='cycle'>
   <img src="img/reset.png">
